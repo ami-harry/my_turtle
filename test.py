@@ -1,0 +1,10 @@
+import turtle as t
+tut_class = t.Turtle()
+tut_class.color('red')
+sc_class = t.Screen()
+sc_class.colormode(255)
+# tut_class.sc_class.bgcolor('red')
+# sc_class.bgcolor('green')
+sc_class.bgpic('myimage.gif')
+tut_class.hideturtle()
+t.done()

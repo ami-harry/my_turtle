@@ -1,0 +1,8 @@
+1 This is writing into the file
+2 this is anoter line 
+3 This is writing into the file
+4 this is anoter line 
+5 this is anoter line 
+6 this is anoter line 
+7 this is anoter line 
+8 this is anoter line this is append mode
